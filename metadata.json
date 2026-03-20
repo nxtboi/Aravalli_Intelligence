@@ -1,0 +1,7 @@
+{
+  "name": "Aravalli Intelligence",
+  "description": "Secure Environmental Monitoring Access for the Aravalli Range. Real-time satellite surveillance and ecological health tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
